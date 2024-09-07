@@ -22,7 +22,7 @@
     height: 10vh;
     background: linear-gradient(90deg, green, yellow);
     border-radius: 1em;
-    font-size: 3vh;
+    font-size: 1.5vh;
     animation: header_animation 3s linear 1;
     color: orangered;
     display: flex;
